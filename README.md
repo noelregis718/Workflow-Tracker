@@ -1,5 +1,11 @@
 Workflow - Kanban Board - The better to do list 🗒️
 
+## Author
+
+**Noel Regis**
+- Email: noelregis718@gmail.com
+- GitHub: [@noelregis718](https://github.com/noelregis718)
+
 ## How to use this ?
 
 To get started - install all the dependencies via : `npm i` or any other package manager

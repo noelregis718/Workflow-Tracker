@@ -1,8 +1,13 @@
 {
-  "homepage": "https://prasunparijat.github.io/kanban-board",
   "name": "kanban-board",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Noel Regis",
+    "email": "noelregis718@gmail.com",
+    "github": "noelregis718"
+  },
+  "homepage": "https://noelregis718.github.io/kanban-board",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
